@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">E-Maktabah</string>
+    <string name="baca">Baca</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="terakhir_baca">Terakhir Baca</string>
+    <string name="pengaturan">Pengaturan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_maktabah">E-Maktabah</string>
+    <string name="label_body_app">Thalabul \'ilmi faridhatun \'ala kulli muslim</string>
+    <string name="label_salam">Assalamu\'alaikum</string>
+    <string name="_1">1</string>
 </resources>

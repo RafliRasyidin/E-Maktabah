@@ -3,11 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/drawable/bg_black_outlined_circle.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/drawable/bg_screen.xml" value="0.14907407407407408" />
-        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/drawable/ic_app_background.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/drawable/ic_more.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/activity_baca.xml" value="0.1" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/fragment_baca.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/fragment_fiqih.xml" value="0.2546875" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/item_list_book.xml" value="0.264" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/item_list_doa.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/layout/vp_category_container.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/mipmap-anydpi-v26/ic_app.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/mipmap-anydpi-v26/ic_app_logo.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/RASYIDIN/AndroidStudioProjects/AndroidProject/EMaktabah/app/src/main/res/mipmap-anydpi-v26/ic_app_round.xml" value="0.2708333333333333" />
       </map>
     </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="dagger.hilt.android.HiltAndroidApp" />
+    </list>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
