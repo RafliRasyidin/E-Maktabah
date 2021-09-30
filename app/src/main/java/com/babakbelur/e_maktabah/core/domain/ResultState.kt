@@ -1,4 +1,4 @@
-package com.babakbelur.e_maktabah.data
+package com.babakbelur.e_maktabah.core.domain
 
 sealed class ResultState<T: Any> {
     class Loading<T: Any> : ResultState<T>()

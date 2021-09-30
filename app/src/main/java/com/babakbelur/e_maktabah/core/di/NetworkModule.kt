@@ -1,8 +1,8 @@
-package com.babakbelur.e_maktabah.di
+package com.babakbelur.e_maktabah.core.di
 
-import com.babakbelur.e_maktabah.data.source.remote.network.ApiService
-import com.babakbelur.e_maktabah.utils.Constants.BASE_URL
-import com.babakbelur.e_maktabah.utils.Constants.REQUEST_TIMEOUT
+import com.babakbelur.e_maktabah.core.data.source.remote.network.ApiService
+import com.babakbelur.e_maktabah.core.utils.Constants.BASE_URL
+import com.babakbelur.e_maktabah.core.utils.Constants.REQUEST_TIMEOUT
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
