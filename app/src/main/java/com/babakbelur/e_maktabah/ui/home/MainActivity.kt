@@ -8,7 +8,9 @@ import androidx.navigation.fragment.findNavController
 import com.babakbelur.e_maktabah.R
 import com.babakbelur.e_maktabah.databinding.ActivityMainBinding
 import com.babakbelur.e_maktabah.ui.base.BaseActivity
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : BaseActivity<ActivityMainBinding>() {
 
     private lateinit var navHostController: NavController
