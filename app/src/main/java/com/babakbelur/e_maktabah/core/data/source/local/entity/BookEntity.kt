@@ -1,4 +1,4 @@
-package com.babakbelur.e_maktabah.data.source.local.entity
+package com.babakbelur.e_maktabah.core.data.source.local.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

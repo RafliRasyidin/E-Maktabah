@@ -1,7 +1,7 @@
-package com.babakbelur.e_maktabah.data.source.local.room
+package com.babakbelur.e_maktabah.core.data.source.local.room
 
 import androidx.room.*
-import com.babakbelur.e_maktabah.data.source.local.entity.BookEntity
+import com.babakbelur.e_maktabah.core.data.source.local.entity.BookEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao

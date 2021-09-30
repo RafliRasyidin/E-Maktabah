@@ -1,9 +1,9 @@
-package com.babakbelur.e_maktabah.di
+package com.babakbelur.e_maktabah.core.di
 
 import android.content.Context
 import androidx.room.Room
-import com.babakbelur.e_maktabah.data.source.local.room.BookDatabase
-import com.babakbelur.e_maktabah.utils.Constants.DATABASE_NAME
+import com.babakbelur.e_maktabah.core.data.source.local.room.BookDatabase
+import com.babakbelur.e_maktabah.core.utils.Constants.DATABASE_NAME
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
